@@ -8,8 +8,8 @@
  {
    "repository"  : "android_kernel_xiaomi_sm8250",
    "target_path" : "kernel/xiaomi/sm8250",
-   "remote"      : "lineage",
-   "branch"      : "lineage-18.1"
+   "remote"      : "apollo",
+   "branch"      : "eleven"
  },
  {
    "repository"  : "vendor_xiaomi_sm8250-common",
