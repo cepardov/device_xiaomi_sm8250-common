@@ -250,10 +250,8 @@ PRODUCT_PACKAGES += \
     android.hardware.lights-service.xiaomi_kona
 
 # LiveDisplay
-ifeq ($(findstring Plus, $(CUSTOM_VERSION)),)
 PRODUCT_PACKAGES += \
     vendor.lineage.livedisplay@2.0-service-sdm
-endif
 
 # Media
 PRODUCT_PACKAGES += \
