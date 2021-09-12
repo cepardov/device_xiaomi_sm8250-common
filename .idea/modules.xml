@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/device_xiaomi_sm8250-common.iml" filepath="$PROJECT_DIR$/.idea/device_xiaomi_sm8250-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.ifaa.android.manager/org.ifaa.android.manager.iml" filepath="$PROJECT_DIR$/org.ifaa.android.manager/org.ifaa.android.manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parts/parts.iml" filepath="$PROJECT_DIR$/parts/parts.iml" />
+    </modules>
+  </component>
+</project>
